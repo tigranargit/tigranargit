@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tigran
-- 👀 I’m interested in software engineering, data and DevOps
+- 👀 I’m interested in cloud engineering, data and DevOps
 - 🌱 I’m currently looking for an entry-level tech job :)
 - 📫 How to reach me: karapetyan.t@gmail.com
 
